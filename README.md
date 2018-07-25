@@ -76,25 +76,91 @@ Changes / improvements in version 59.00.545A:
 
 ### Version 59.00.502A
 
-- Unknown
+Note: The system performance has been improved as follows:
+
+- System stability and response of the CMU.
+    - Mininize unexpected reboots and blank or frozen screens.
+    - Faster start up.
+    - Faster operational response.
+
+- Connectivity and stabliity for BT devices.
+    - Improved stability of connection.
+    - Reduced connection error with internet radio applications.
+
+- Stability for USB audio device.
+    - Faster response when hundreds of songs are being read out of USB audio devices.
+
+- Connection stability and functionality with iPhone.
+    - Device name can be displayed not only via BT connection but also via USB connection.
+    - Improved stablity when iPhone is connected via both BT and USB.
+
+[Changelog Source](https://mazda3revolution.com/forums/attachment.php?attachmentid=206426&d=1495992952)
 
 
 
 ### Version 59.00.441A
 
-- Unknown
+- With ignition ON, "SCBS Unavailable" or "LDWS Unavailable" message may be displayed due to false error detection by CMU, but the systems actually do work. No DTC is stored in memory and no message appears in the multi-information display. **(2014-2015 Mazda3 equipped with SCBS, LDWS and CMU ver. 59.00.441/443/445)**
+
+
+
+### Version 59.00.330 (Download not available)
+
+- DTC U0100:00 [CONNECTIVITY MASTER UNIT] (communication error with PCM) is stored in memory.
+
+- Warning guidances are displayed both for LDWS and HBC **(CX-3 with LDWS and without HBC only)**.
+
+- Improper OFF selection in the Setting Interval menu under Oil Change **(CX-9 only)**.
 
 
 
 ### Version 55.00.760A
 
-- Unknown
+- Naviation or other screen freeze or reboot.
+
+- Issues with Pandora Radio.
+
+- USB device fails to start playing, resume or display music information. BT audio device fails when starting to play, resume or connect.
+
+- Paired BT device will not connect. Removing the paired BT device from the vehicle (ut not the vehicle from the phone) results in an endless "Deleting" message.
 
 
 
 ### Version 55.00.753A
 
-- Unknown
+*From 59.00.502A - previous versions section which may or may not be this version specifically*
+
+- Some street names in Canada are not displayed.
+
+- Navigation does not allow to set certain cities as destination.
+
+- Navigation does not announce voice guidance for street names.
+
+- Navigation turns to a black screen remaining the task bar.
+
+- Turn -by-turn navigation guidance does not display on on the active driving display **(for vehicles with 55.00.750)**.
+
+- Every time the navigation is turned on, the vehicle position starts from the location (dealer) where the CMU was updated from version 55.00.650 to 55.00.750.
+
+- Navigation or other screen turn black, freeze or reboot.
+
+- System does not recognize USB/SD card.
+
+- Some menu of music source selection is grayed out.
+
+- When using the call button on the cell phone to make a call, the call sound is short.
+
+- Favorites disappear.
+
+- Vehicle current position is not accurate enough.
+
+- Rear view monitor does not show up on screen.
+
+- Text information of HD radio is not displayed when switching music source.
+
+- When asking for currect location with voice command "Where am I?", the system responds with "Your location is comma."
+
+- Contact information cannot be loaded correctly from phones other then iPhone.
 
 
 
