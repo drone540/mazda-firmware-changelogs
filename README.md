@@ -100,8 +100,8 @@ Note: The system performance has been improved as follows:
     - Device name can be displayed not only via BT connection but also via USB connection.
     - Improved stablity when iPhone is connected via both BT and USB.
 
-[Changelog Source](https://mazda3revolution.com/forums/attachment.php?attachmentid=206426&d=1495992952)
-[Changelog Source2](https://www.mazdas247.com/forum/attachment.php?attachmentid=216760&d=1496111451)
+[Changelog Source - Version 55 - 59](https://mazda3revolution.com/forums/attachment.php?attachmentid=206426&d=1495992952)
+[Changelog Source 2](https://www.mazdas247.com/forum/attachment.php?attachmentid=216760&d=1496111451)
 
 
 
@@ -283,6 +283,6 @@ This firmware update contains the following improvements:
 
 *Mazda is continuously working to make further improvements to the MAZDA CONNECT™ system software, and may issue further software updates to improve system operation and performance.*
 
-NOTE: Map updates are separate to system updates. Click here for map updates. http://infotainment.mazdahandsfree.com/howto-updatemymaps?language=en-US
+NOTE: Map updates are separate to system updates. [Click here for map updates](http://infotainment.mazdahandsfree.com/howto-updatemymaps?language=en-US).
 
-[Changelogs Version 55 - 28](http://infotainment.mazdahandsfree.com/files/Mazda_SoftwareUpdateV55CustomerLetter_USEnglish.pdf)
+[Changelogs Source - Version 28 to 55](http://infotainment.mazdahandsfree.com/files/Mazda_SoftwareUpdateV55CustomerLetter_USEnglish.pdf)
