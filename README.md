@@ -1,6 +1,12 @@
 # mazda-firmware-changelogs
 
 
+### Version 70
+
+- Carplay / Andriod Auto Support added
+
+
+
 
 ### Version 59.00.546A
 
@@ -95,6 +101,7 @@ Note: The system performance has been improved as follows:
     - Improved stablity when iPhone is connected via both BT and USB.
 
 [Changelog Source](https://mazda3revolution.com/forums/attachment.php?attachmentid=206426&d=1495992952)
+[Changelog Source2](https://www.mazdas247.com/forum/attachment.php?attachmentid=216760&d=1496111451)
 
 
 
