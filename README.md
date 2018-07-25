@@ -10,47 +10,55 @@
 
 ### Version 59.00.545A
 
-- When playing a BT audio device, album art is not available even when it is found in Gracenote® database in CMU.
+Changes / improvements in version 59.00.545A:
 
-- Speed limit does not show up on the navigation screen on some narrower roads.
+*The following symptoms can be fixed by updating the software to the newest version (currently 59.000.545A). Improvements and fixes of malfunctions depend on the current software version (software) installed on the car.*
 
-- When selecting one of registered favorite radio stations, it may tune in other station.
+- When playing back from an audio device connected via Bluetooth, an illustration of the album is not available even if it is found in the Gracenote® database stored in the CMU memory.
 
-- An Android 8.0 device is not recognized via USB connection.
+- On some narrower roads, the speed limit on the navigation system screen is not displayed.
 
-- **[Only vehicles without Active Driving Display]** Traffic Sign Recognition System (TSR) does not keep the alert threshold setting value when performing Factory Reset.
+- If you select one of the stations stored in the selected radio, the radio can be tuned to receive another radio station.
 
-- **[Portugues]** Adaptive Lane/Street/Turn messages may not be completely displayed.
+- Devices with Android 8.0 are not recognized when connected via USB.
 
-- Wrong caller name is displayed for incoming calls.
+- **[For vehicles with an active driver display only]**, the Road Recognition System (TSR) after resetting to the factory settings (Factory Reset) does not store the time-of-warning setting for the allowed speed at which an alert should be issued.
 
-- Fuel Economy Monitor may display wrong unit
+- **[Portuguese]** Information on lanes / streets / bends may not be fully displayed on the display.
 
-- Cell phone screen may flickers when connected via USB.
+- Incoming calls, the display shows the wrong name of the caller.
 
-- **[Polish]** Due to wrong translation, the home address will not be cleared on the favorite screen.
+- Invalid units of measurement may appear on the fuel economy monitoring function screen.
 
-- Traffic Sign Recognition System (TSR) does not alert at the correct speed limit alert setting. It may alert at +6 mile for +10 mile setting.
+- The display of the mobile phone may flicker when it is connected via USB.
 
-- When setting a destination using the address, “House Number not found” error pop-up message may appear even if the address can actually be set.
+- **[Polish]** Due to incorrect translation, the home address is not deleted from the favorites list.
 
-- When trying to enter a new destination address, different house number may be appear as a destination while correct house number is actually set.
+- The Traffic Signal Recognition System (TSR) does not give a warning corresponding to the selected setting for the speed limit alert. It can warn of a speed of 6 or 10 mph greater than the set speed.
 
-- When trying to enter a new destination address, some house numbers may not appear in the list to be selected from.
+- If you select a destination, an "House Number not found" pop-up message may appear in the address, even if you can actually select the address.
 
-- **[V59.00.544 only, except 2017-2018 Mazda3 (Mexico built)]** When using Driving Position Memory, a beep sound may not be heard when the driving position adjustment is completed. Display settings for navigation guidance on Active Driving Display may not be kept for the seat position memory.
+- If you try to enter the address of a new destination, another house number may appear for it, although the correct house number is actually selected.
 
-- i-Pod nano 5th gen will not play.
+- If you try to enter the address of a new destination, some house numbers may not appear in the list for selection.
 
-- **[Only vehicles equipped with the Forward Sensing Camera]** Warning Guidance message to clear foggy windshield is shown on center display even if it is not foggy.
+- **[Only version 59.00.544, except 2017-2018 Mazda3 (manufactured in Mexico)]** When using the memory function for adjusting the seat position and the active driver display, an audible signal may not be output after automatic adjustment is completed. The display settings for navigation system prompts on the active driver display may not be saved for the function of storing seat position settings and the active driver display.
 
-- Fuel Economy Monitor may draw bars twice a minute instead of once a minute.
+- No playback from i-Pod nano 5th generation.
 
-- **[CX-9]** According to the correct design specification, the speed limit is displayed only on active driving display. It should not be displayed in center display.
+- **[For vehicles with a front-view camera only]** A message appears on the central display to remove condensation from the windshield, even when there is no fogging. A fault message is displayed on the central display even if there is no fault.
 
-- The customize function is limited even if the engine is running.The setting tab works as if the vehicle is in ACC mode.
+- The graph on the screen of the fuel economy control function can be changed instead of once twice per minute.
 
-- **[German]** Improper translation for Auto Door Lock Mode setting
+- **[Swedish]** Wrong translation for the strip follower system. "Alarttiming" was changed to "Varningstiming".
+
+- **[CX-9]** According to the specification, the display of the permitted speed is carried out only on the active driver display. This information should not be displayed on the central display.
+
+- The tuning function is limited even when the engine is running. The tuning tab works in the same way as when the engine start switch is in the ACC state.
+
+- **[German]** Invalid translation of automatic door locking settings
+
+[Changelog Source](https://www.drive2.com/l/505812458368139493/)
 
 
 
@@ -203,3 +211,5 @@ This firmware update contains the following improvements:
 *Mazda is continuously working to make further improvements to the MAZDA CONNECT™ system software, and may issue further software updates to improve system operation and performance.*
 
 NOTE: Map updates are separate to system updates. Click here for map updates. http://infotainment.mazdahandsfree.com/howto-updatemymaps?language=en-US
+
+[Changelogs Version 55 - 28](http://infotainment.mazdahandsfree.com/files/Mazda_SoftwareUpdateV55CustomerLetter_USEnglish.pdf)
