@@ -10,27 +10,27 @@
 
 ### Version 59.00.545A
 
-• When playing a BT audio device, album art is not available even when it is found in Gracenote® database in CMU.
-• Speed limit does not show up on the navigation screen on some narrower roads.
-• When selecting one of registered favorite radio stations, it may tune in other station.
-• An Android 8.0 device is not recognized via USB connection.
-• [Only vehicles without Active Driving Display] Traffic Sign Recognition System (TSR) does not keep the alert threshold setting value when performing Factory Reset.
-• [Portugues] Adaptive Lane/Street/Turn messages may not be completely displayed.
-• Wrong caller name is displayed for incoming calls.
-• Fuel Economy Monitor may display wrong unit
-• Cell phone screen may flickers when connected via USB.
-• [Polish] Due to wrong translation, the home address will not be cleared on the favorite screen.
-• Traffic Sign Recognition System (TSR) does not alert at the correct speed limit alert setting. It may alert at +6 mile for +10 mile setting.
-• When setting a destination using the address, “House Number not found” error pop-up message may appear even if the address can actually be set.
-• When trying to enter a new destination address, different house number may be appear as a destination while correct house number is actually set.
-• When trying to enter a new destination address, some house numbers may not appear in the list to be selected from.
-• [V59.00.544 only, except 2017-2018 Mazda3 (Mexico built)] When using Driving Position Memory, a beep sound may not be heard when the driving position adjustment is completed. Display settings for navigation guidance on Active Driving Display may not be kept for the seat position memory.
-• i-Pod nano 5th gen will not play.
-• [Only vehicles equipped with the Forward Sensing Camera] Warning Guidance message to clear foggy windshield is shown on center display even if it is not foggy.
-• Fuel Economy Monitor may draw bars twice a minute instead of once a minute.
-• [CX-9] According to the correct design specification, the speed limit is displayed only on active driving display. It should not be displayed in center display.
-• The customize function is limited even if the engine is running.The setting tab works as if the vehicle is in ACC mode.
-• [German] Improper translation for Auto Door Lock Mode setting
+- When playing a BT audio device, album art is not available even when it is found in Gracenote® database in CMU.
+- Speed limit does not show up on the navigation screen on some narrower roads.
+- When selecting one of registered favorite radio stations, it may tune in other station.
+- An Android 8.0 device is not recognized via USB connection.
+- [Only vehicles without Active Driving Display] Traffic Sign Recognition System (TSR) does not keep the alert threshold setting value when performing Factory Reset.
+- [Portugues] Adaptive Lane/Street/Turn messages may not be completely displayed.
+- Wrong caller name is displayed for incoming calls.
+- Fuel Economy Monitor may display wrong unit
+- Cell phone screen may flickers when connected via USB.
+- [Polish] Due to wrong translation, the home address will not be cleared on the favorite screen.
+- Traffic Sign Recognition System (TSR) does not alert at the correct speed limit alert setting. It may alert at +6 mile for +10 mile setting.
+- When setting a destination using the address, “House Number not found” error pop-up message may appear even if the address can actually be set.
+- When trying to enter a new destination address, different house number may be appear as a destination while correct house number is actually set.
+- When trying to enter a new destination address, some house numbers may not appear in the list to be selected from.
+- [V59.00.544 only, except 2017-2018 Mazda3 (Mexico built)] When using Driving Position Memory, a beep sound may not be heard when the driving position adjustment is completed. Display settings for navigation guidance on Active Driving Display may not be kept for the seat position memory.
+- i-Pod nano 5th gen will not play.
+- [Only vehicles equipped with the Forward Sensing Camera] Warning Guidance message to clear foggy windshield is shown on center display even if it is not foggy.
+- Fuel Economy Monitor may draw bars twice a minute instead of once a minute.
+- [CX-9] According to the correct design specification, the speed limit is displayed only on active driving display. It should not be displayed in center display.
+- The customize function is limited even if the engine is running.The setting tab works as if the vehicle is in ACC mode.
+- [German] Improper translation for Auto Door Lock Mode setting
 
 
 ### Version 59.00.540A
