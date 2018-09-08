@@ -10,7 +10,7 @@
 
 ### Version 59.00.546A
 
-- Unknown
+- Rear view monitor brightness settings have been disabled for compliance requirement.
 
 
 
@@ -19,6 +19,16 @@
 Changes / improvements in version 59.00.545A:
 
 *The following symptoms can be fixed by updating the software to the newest version (currently 59.000.545A). Improvements and fixes of malfunctions depend on the current software version (software) installed on the car.*
+
+- **[Only version 59.00.544, except 2017-2018 Mazda3 (manufactured in Mexico)]** When using the memory function for adjusting the seat position and the active driver display, an audible signal may not be output after automatic adjustment is completed. The display settings for navigation system prompts on the active driver display may not be saved for the function of storing seat position settings and the active driver display.
+
+[Changelog Source](https://mazda3revolution.com/forums/2403015-post3279.html) - ASH8 Mazda3Revolution
+
+
+
+### Version 59.00.544A
+
+*The following symptoms can be fixed by updating the software to the newest version.*
 
 - When playing back from an audio device connected via Bluetooth, an illustration of the album is not available even if it is found in the Gracenote® database stored in the CMU memory.
 
@@ -30,47 +40,50 @@ Changes / improvements in version 59.00.545A:
 
 - **[For vehicles with an active driver display only]**, the Road Recognition System (TSR) after resetting to the factory settings (Factory Reset) does not store the time-of-warning setting for the allowed speed at which an alert should be issued.
 
-- **[Portuguese]** Information on lanes / streets / bends may not be fully displayed on the display.
-
 - Incoming calls, the display shows the wrong name of the caller.
 
 - Invalid units of measurement may appear on the fuel economy monitoring function screen.
 
 - The display of the mobile phone may flicker when it is connected via USB.
 
-- **[Polish]** Due to incorrect translation, the home address is not deleted from the favorites list.
-
 - The Traffic Signal Recognition System (TSR) does not give a warning corresponding to the selected setting for the speed limit alert. It can warn of a speed of 6 or 10 mph greater than the set speed.
 
-- If you select a destination, an "House Number not found" pop-up message may appear in the address, even if you can actually select the address.
+- **[Version 59.00.540 only]** If you select a destination, an "House Number not found" pop-up message may appear in the address, even if you can actually select the address.
 
-- If you try to enter the address of a new destination, another house number may appear for it, although the correct house number is actually selected.
+- **[Version 59.00.540 only]** If you try to enter the address of a new destination, another house number may appear for it, although the correct house number is actually selected.
 
-- If you try to enter the address of a new destination, some house numbers may not appear in the list for selection.
+- **[Version 59.00.540 only]** If you try to enter the address of a new destination, some house numbers may not appear in the list for selection.
 
-- **[Only version 59.00.544, except 2017-2018 Mazda3 (manufactured in Mexico)]** When using the memory function for adjusting the seat position and the active driver display, an audible signal may not be output after automatic adjustment is completed. The display settings for navigation system prompts on the active driver display may not be saved for the function of storing seat position settings and the active driver display.
+- **[Portuguese]** Information on lanes / streets / bends may not be fully displayed on the display.
 
-- No playback from i-Pod nano 5th generation.
+- **[Polish]** Due to incorrect translation, the home address is not deleted from the favorites list.
 
-- **[For vehicles with a front-view camera only]** A message appears on the central display to remove condensation from the windshield, even when there is no fogging. A fault message is displayed on the central display even if there is no fault.
-
-- The graph on the screen of the fuel economy control function can be changed instead of once twice per minute.
-
-- **[Swedish]** Wrong translation for the strip follower system. "Alarttiming" was changed to "Varningstiming".
-
-- **[CX-9]** According to the specification, the display of the permitted speed is carried out only on the active driver display. This information should not be displayed on the central display.
-
-- The tuning function is limited even when the engine is running. The tuning tab works in the same way as when the engine start switch is in the ACC state.
-
-- **[German]** Invalid translation of automatic door locking settings
-
-[Changelog Source](https://www.drive2.com/l/505812458368139493/)
 
 
 
 ### Version 59.00.540A
 
-- Unknown
+- When Pandora® is connecting to the vehicle, the screen color and the logo have been changed.
+
+- Warning Guidance “i-ELOOP Charging” in the center display has been removed.
+
+- i-Pod nano 5th gen will not play.
+
+- **[Only vehicles equipped with the Forward Sensing Camera]** Warning Guidance message to clear foggy windshiled is shown even if it is not foggy. (The message has been changed.)
+
+- Fuel Economy Monitor may draw bars twice a minute instead of once a minute.
+
+- **[Canada and Mexico]** Some vehicles in Fixed engine oil maintenance mode may experience that the remaining mileage does not decrease.
+
+- **[USA]** Some vehicles in Flexible engine oil maintenance mode may experience that the remaining mileage returns to 620 miles (1000 km) from less than 620 miles (1000 km).
+
+- **[CX-9 with Active Driving Display]** Speed limit display in the MAZDA CONNECT screen has been disabled.
+
+- The setting tab works as if the ignition is in ACC instead of ON.
+
+- **[Swedish]** Wrong translation for the strip follower system. "Alarttiming" was changed to "Varningstiming".
+
+- **[German]** Invalid translation of automatic door locking settings
 
 
 
@@ -83,6 +96,8 @@ Changes / improvements in version 59.00.545A:
 ### Version 59.00.502A
 
 Note: The system performance has been improved as follows:
+
+- USB Auto run vulnerability descibed in [Forbes article](https://www.forbes.com/sites/thomasbrewster/2018/03/09/mazda-privacy-hack-via-usb/)
 
 - System stability and response of the CMU.
     - Mininize unexpected reboots and blank or frozen screens.
@@ -119,6 +134,8 @@ Note: The system performance has been improved as follows:
 
 - Improper OFF selection in the Setting Interval menu under Oil Change **(CX-9 only)**.
 
+- Resetting with "Fixed" data will not reset "Flexible" data. **(CX-9 only)**.
+
 
 
 ### Version 55.00.760A
@@ -129,7 +146,7 @@ Note: The system performance has been improved as follows:
 
 - USB device fails to start playing, resume or display music information. BT audio device fails when starting to play, resume or connect.
 
-- Paired BT device will not connect. Removing the paired BT device from the vehicle (ut not the vehicle from the phone) results in an endless "Deleting" message.
+- Paired BT device will not connect. Removing the paired BT device from the vehicle (but not the vehicle from the phone) results in an endless "Deleting" message.
 
 
 
@@ -143,7 +160,7 @@ Note: The system performance has been improved as follows:
 
 - Navigation does not announce voice guidance for street names.
 
-- Navigation turns to a black screen remaining the task bar.
+- Navigation turns to a black screen, but the menu bar remains.
 
 - Turn -by-turn navigation guidance does not display on on the active driving display **(for vehicles with 55.00.750)**.
 
