@@ -1,7 +1,13 @@
 # mazda-firmware-changelogs
 
 
-### Version 70
+### Version 70.00.021A
+
+- Pause when muted in MZD Connect.
+
+
+
+### Version 70.00.000A
 
 - Carplay / Andriod Auto Support added
 
