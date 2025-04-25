@@ -9,7 +9,7 @@
 
 ### Version 70.00.000A
 
-- Carplay / Andriod Auto Support added
+- Apple CarPlay / Android Auto support added
 
 
 
